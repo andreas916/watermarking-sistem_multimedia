@@ -1,4 +1,6 @@
-# Evaluasi Kinerja Watermarking terhadap Kompresi JPEG
+# Tugas Watermarking Sistem Multimedia
+
+Andreas Saputra Tambun - 18224110
 
 Repository ini berisi implementasi manual Discrete Cosine Transform (DCT) untuk penyisipan citra biner (watermark) pada gambar, serta simulasi kompresi JPEG untuk mengevaluasi ketahanan watermark.
 
